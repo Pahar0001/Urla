@@ -1,0 +1,420 @@
+[
+ {
+  "name": "breakfast",
+  "kind": "photo",
+  "role": "card",
+  "source": "pexels",
+  "source_id": "14686500",
+  "title": "A bright breakfast scene with croissants, jam, and coffee in ceramic dishes.",
+  "page_url": "https://www.pexels.com/photo/tasty-croissants-on-the-white-ceramic-plate-14686500/",
+  "file_url": "https://images.pexels.com/photos/14686500/pexels-photo-14686500.jpeg?auto=compress&cs=tinysrgb&w=1280",
+  "author": "Kubra YETER",
+  "author_url": "https://www.pexels.com/@kubra-yeter-53087376",
+  "license": "Pexels License",
+  "license_code": "pexels",
+  "license_url": "https://www.pexels.com/license/",
+  "attribution_required": false,
+  "attribution_text": "Фото: Kubra YETER, Pexels (https://www.pexels.com/photo/tasty-croissants-on-the-white-ceramic-plate-14686500/)",
+  "credit_need": "по желанию (вежливо)",
+  "changes": "Изменено: пережато в WEBP/AVIF/JPEG.",
+  "seen": "круассаны на тарелке, масло, чашки кофе и какао, полосатая салфетка, утренний свет",
+  "caption": "Завтрак: выпечка и кофе",
+  "flags": [],
+  "ok_flags": false,
+  "original": {
+   "width": 1280,
+   "height": 853,
+   "bytes": 118489,
+   "format": "jpeg",
+   "sha256": "02731fd6c473cf62af7348d0b575331cff4858bc1fec3741c4bf58e80a4234dd"
+  },
+  "files": [
+   {
+    "file": "breakfast-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 58582,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "breakfast-640.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 23492,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "breakfast-640.avif",
+    "width": 640,
+    "height": 427,
+    "bytes": 16407,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "breakfast-1280.avif",
+    "width": 1280,
+    "height": 853,
+    "bytes": 38296,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "breakfast-1280.jpg",
+    "width": 1280,
+    "height": 853,
+    "bytes": 104300,
+    "format": "jpeg",
+    "group": "fallback"
+   }
+  ],
+  "look": {
+   "look": "none",
+   "contrast": 0,
+   "grain": 0
+  },
+  "hotlink": false,
+  "query": "coffee croissant breakfast table close up",
+  "date": "2026-09-29"
+ },
+ {
+  "name": "billiard",
+  "kind": "photo",
+  "role": "card",
+  "source": "pexels",
+  "source_id": "36055834",
+  "title": "Colorful pool balls on a billiard table focus on the number five.",
+  "page_url": "https://www.pexels.com/photo/vibrant-pool-balls-on-blue-table-36055834/",
+  "file_url": "https://images.pexels.com/photos/36055834/pexels-photo-36055834.jpeg?auto=compress&cs=tinysrgb&w=1280",
+  "author": "hani almuzaini",
+  "author_url": "https://www.pexels.com/@hanialmuzini",
+  "license": "Pexels License",
+  "license_code": "pexels",
+  "license_url": "https://www.pexels.com/license/",
+  "attribution_required": false,
+  "attribution_text": "Фото: hani almuzaini, Pexels (https://www.pexels.com/photo/vibrant-pool-balls-on-blue-table-36055834/)",
+  "credit_need": "по желанию (вежливо)",
+  "changes": "Изменено: пережато в WEBP/AVIF/JPEG.",
+  "seen": "бильярдные шары с номерами на синем сукне крупным планом, тёмный фон",
+  "caption": "Бильярд: стол для американского пула",
+  "flags": [],
+  "ok_flags": false,
+  "original": {
+   "width": 1280,
+   "height": 853,
+   "bytes": 44738,
+   "format": "jpeg",
+   "sha256": "8e3b18fd1fe4f48cc31bcf2e9504f4a0cc268076e825ea45f2560b77e3f7d69b"
+  },
+  "files": [
+   {
+    "file": "billiard-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 17620,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "billiard-640.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 7196,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "billiard-640.avif",
+    "width": 640,
+    "height": 427,
+    "bytes": 3973,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "billiard-1280.avif",
+    "width": 1280,
+    "height": 853,
+    "bytes": 8242,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "billiard-1280.jpg",
+    "width": 1280,
+    "height": 853,
+    "bytes": 38077,
+    "format": "jpeg",
+    "group": "fallback"
+   }
+  ],
+  "look": {
+   "look": "none",
+   "contrast": 0,
+   "grain": 0
+  },
+  "hotlink": false,
+  "query": "billiard balls pool table close up",
+  "date": "2026-09-29"
+ },
+ {
+  "name": "laundry",
+  "kind": "photo",
+  "role": "card",
+  "source": "pexels",
+  "source_id": "6466227",
+  "title": "Professional housekeeper folding clean towels on a bed in a hotel room, emphasizing neatness and service.",
+  "page_url": "https://www.pexels.com/photo/person-holding-a-stack-of-white-towels-6466227/",
+  "file_url": "https://images.pexels.com/photos/6466227/pexels-photo-6466227.jpeg?auto=compress&cs=tinysrgb&w=1280",
+  "author": "cottonbro studio",
+  "author_url": "https://www.pexels.com/@cottonbro",
+  "license": "Pexels License",
+  "license_code": "pexels",
+  "license_url": "https://www.pexels.com/license/",
+  "attribution_required": false,
+  "attribution_text": "Фото: cottonbro studio, Pexels (https://www.pexels.com/photo/person-holding-a-stack-of-white-towels-6466227/)",
+  "credit_need": "по желанию (вежливо)",
+  "changes": "Изменено: пережато в WEBP/AVIF/JPEG.",
+  "seen": "руки в белых перчатках складывают стопку белых полотенец на покрывале",
+  "caption": "Прачечная: чистое бельё",
+  "flags": [
+   "people?"
+  ],
+  "ok_flags": true,
+  "original": {
+   "width": 1280,
+   "height": 853,
+   "bytes": 116035,
+   "format": "jpeg",
+   "sha256": "f38f87b151f77f377cfbf04681011ea3ec69235103c784328e406f7e1e3619c5"
+  },
+  "files": [
+   {
+    "file": "laundry-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 55148,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "laundry-640.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 22704,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "laundry-640.avif",
+    "width": 640,
+    "height": 427,
+    "bytes": 14302,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "laundry-1280.avif",
+    "width": 1280,
+    "height": 853,
+    "bytes": 33831,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "laundry-1280.jpg",
+    "width": 1280,
+    "height": 853,
+    "bytes": 102380,
+    "format": "jpeg",
+    "group": "fallback"
+   }
+  ],
+  "look": {
+   "look": "none",
+   "contrast": 0,
+   "grain": 0
+  },
+  "hotlink": false,
+  "query": "folded white towels hotel",
+  "date": "2026-09-29"
+ },
+ {
+  "name": "rybinsk-facade",
+  "kind": "photo",
+  "role": "section",
+  "source": "pexels",
+  "source_id": "39617272",
+  "title": "Detailed view of historical facade architecture in Rybinsk, Russia.",
+  "page_url": "https://www.pexels.com/photo/ornate-architecture-close-up-in-rybinsk-39617272/",
+  "file_url": "https://images.pexels.com/photos/39617272/pexels-photo-39617272.jpeg?auto=compress&cs=tinysrgb&w=2560",
+  "author": "Ольга Коретникова",
+  "author_url": "https://www.pexels.com/@2164334675",
+  "license": "Pexels License",
+  "license_code": "pexels",
+  "license_url": "https://www.pexels.com/license/",
+  "attribution_required": false,
+  "attribution_text": "Фото: Ольга Коретникова, Pexels (https://www.pexels.com/photo/ornate-architecture-close-up-in-rybinsk-39617272/)",
+  "credit_need": "по желанию (вежливо)",
+  "changes": "Изменено: пережато в WEBP/AVIF/JPEG.",
+  "seen": "белый фасад исторического здания с резным орнаментом и красной узорной крышей в Рыбинске",
+  "caption": "Рыбинск, историческая застройка",
+  "flags": [],
+  "ok_flags": false,
+  "original": {
+   "width": 2560,
+   "height": 1706,
+   "bytes": 580164,
+   "format": "jpeg",
+   "sha256": "4e733e8f6b21202ac3bc681900ab1bae60aba602311628d4b1b8d4b21cc4a8db"
+  },
+  "files": [
+   {
+    "file": "rybinsk-facade-2560.webp",
+    "width": 2560,
+    "height": 1706,
+    "bytes": 273396,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-facade-1920.webp",
+    "width": 1920,
+    "height": 1280,
+    "bytes": 191806,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-facade-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 122148,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-facade-1280.avif",
+    "width": 1280,
+    "height": 853,
+    "bytes": 88273,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-facade-2560.avif",
+    "width": 2560,
+    "height": 1706,
+    "bytes": 189782,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-facade-1920.avif",
+    "width": 1920,
+    "height": 1280,
+    "bytes": 134229,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-facade-1920.jpg",
+    "width": 1920,
+    "height": 1280,
+    "bytes": 325885,
+    "format": "jpeg",
+    "group": "fallback"
+   }
+  ],
+  "look": {
+   "look": "none",
+   "contrast": 0,
+   "grain": 0
+  },
+  "hotlink": false,
+  "query": "Rybinsk",
+  "date": "2026-09-29"
+ },
+ {
+  "name": "rybinsk-houses",
+  "kind": "photo",
+  "role": "card",
+  "source": "pexels",
+  "source_id": "39617274",
+  "title": "Architectural contrast with yellow and red building facades in Rybinsk, Russia, showcasing urban design.",
+  "page_url": "https://www.pexels.com/photo/colorful-facade-of-buildings-in-rybinsk-russia-39617274/",
+  "file_url": "https://images.pexels.com/photos/39617274/pexels-photo-39617274.jpeg?auto=compress&cs=tinysrgb&w=1280",
+  "author": "Ольга Коретникова",
+  "author_url": "https://www.pexels.com/@2164334675",
+  "license": "Pexels License",
+  "license_code": "pexels",
+  "license_url": "https://www.pexels.com/license/",
+  "attribution_required": false,
+  "attribution_text": "Фото: Ольга Коретникова, Pexels (https://www.pexels.com/photo/colorful-facade-of-buildings-in-rybinsk-russia-39617274/)",
+  "credit_need": "по желанию (вежливо)",
+  "changes": "Изменено: пережато в WEBP/AVIF/JPEG.",
+  "seen": "жёлтый и красный фасады соседних домов с белыми окнами в Рыбинске",
+  "caption": "Рыбинск, дома в центре",
+  "flags": [],
+  "ok_flags": false,
+  "original": {
+   "width": 1280,
+   "height": 853,
+   "bytes": 91301,
+   "format": "jpeg",
+   "sha256": "95023689feef3fc8b873188da9ec57f2e6dac12a440c79a20e5ed0ada32a267c"
+  },
+  "files": [
+   {
+    "file": "rybinsk-houses-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 33790,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-houses-640.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 13954,
+    "format": "webp",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-houses-640.avif",
+    "width": 640,
+    "height": 427,
+    "bytes": 9575,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-houses-1280.avif",
+    "width": 1280,
+    "height": 853,
+    "bytes": 21759,
+    "format": "avif",
+    "group": "desktop"
+   },
+   {
+    "file": "rybinsk-houses-1280.jpg",
+    "width": 1280,
+    "height": 853,
+    "bytes": 83258,
+    "format": "jpeg",
+    "group": "fallback"
+   }
+  ],
+  "look": {
+   "look": "none",
+   "contrast": 0,
+   "grain": 0
+  },
+  "hotlink": false,
+  "query": "Rybinsk",
+  "date": "2026-09-29"
+ }
+]

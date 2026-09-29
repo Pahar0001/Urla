@@ -1,0 +1,76 @@
+/* Дизайн-система отеля «ЮрЛа».
+   Система — замеры страницы отеля AZIMUT Hotels (design-reference extract, 29.09.2026):
+   палитра, шкала, контейнер, ритм, линии, радиусы, длительности. Свои отличия отмечены. */
+
+/* Roboto Flex (OFL): только знаки сайта — кириллица, латиница, цифры, «»„“—–…№₽×−→;
+   оси: ширина 100–151 %, вес 300–500, оптический размер 8–144 (Google Fonts, параметр text) */
+@font-face {
+  font-family: "Roboto Flex";
+  src: url("../fonts/roboto-flex-subset.woff2") format("woff2");
+  font-weight: 300 500;
+  font-stretch: 100% 151%;
+  font-display: swap;
+  unicode-range: U+20-7E, U+A0, U+A9, U+AB, U+B0, U+B7, U+BB, U+D7, U+401, U+410-44F, U+451, U+2011, U+2013-2014, U+2018-2019, U+201C-201E, U+2026, U+20BD, U+2116, U+2190, U+2192, U+2212;
+}
+
+:root {
+  /* цвета: донор */
+  --c-bg: #FFFFFF;
+  --c-surface: #F3F3F3;
+  --c-warm: #F6F3EA;
+  --c-plane-cool: #E9F1F7;
+  --c-plane-warm: #F9F2E7;
+  --c-text: #2B2A29;
+  --c-muted: #656361;
+  --c-line: #E1E1E1;
+  --c-dark: #2B2A29;
+  --c-dark-muted: #AAAAAA;
+  /* свои: серый вкладок донора #AAAAAA темнее до 4.6:1 (текст 16–20 px должен читаться),
+     рамка полей до 3:1 к белому */
+  --c-quiet: #767472;
+  --c-field: #8F8D8B;
+  /* акцент в роли донора (действия, круги значков, блок контактов); оттенок свой — не фирменный #E4002B */
+  --c-accent: #CF0A2C;
+  --c-accent-hover: #B00B26;
+  /* знак отеля */
+  --c-gold: #C9A55A;
+  --c-gold-deep: #9C7A36;
+
+  /* шрифт: у донора RF Dewi / RF Dewi Extended (платные) → Roboto Flex, ширина — осью wdth */
+  --font: "Roboto Flex", "Helvetica Neue", Arial, sans-serif;
+  --wide: 151%;
+  --text-width: 110%;
+
+  /* шкала донора (desktop / 390) */
+  --fs-h1: 64px;  --fs-h1-m: 34px;  --lh-h1: 1.1;  --fw-h1: 300;
+  --fs-h1-page: 48px;
+  --fs-h2: 48px;  --fs-h2-m: 34px;  --lh-h2: 1;    --fw-h2: 300;
+  --fs-h3: 20px;  --lh-h3: 1.4;  --fw-h3: 400;
+  --fs-sub: 36px; --fs-sub-m: 22px;
+  --fs-body: 16px; --lh-body: 1.5; --fw-body: 300;
+  --fs-small: 14px; --lh-small: 1.45;
+  --fs-caption: 13px;
+  --fs-button: 15px;
+  --fs-nav: 14px;
+  --fs-subnav: 20px;
+  --measure: 34.4em;
+
+  /* сетка и ритм */
+  --container: 1200px;
+  --gutter: 20px;
+  --section: 60px;
+  --section-m: 40px;
+  --control: 48px;
+  --header-h: 70px;
+
+  /* линии и радиусы: у донора 0 у всего, 50% — кружки */
+  --radius: 0;
+  --line: 1px solid var(--c-line);
+
+  /* движение донора */
+  --dur-1: 300ms;
+  --dur-2: 200ms;
+  --dur-3: 150ms;
+  --ease: ease;
+  --flare-period: 5s;
+}

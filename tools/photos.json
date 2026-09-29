@@ -1,0 +1,1236 @@
+{
+ "facade-evening": {
+  "alt": "Здание отеля «ЮрЛа» вечером: светится вывеска, по дороге тянутся огни машин",
+  "cat": "facade",
+  "w": 1191,
+  "h": 794,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/facade-evening-640.webp"
+   },
+   {
+    "w": 1191,
+    "file": "img/hotel/facade-evening-1191.webp"
+   },
+   {
+    "w": 1920,
+    "file": "img/hotel/facade-evening-1920.webp",
+    "upscaled": true
+   }
+  ],
+  "src": "33_6_01_natalia.mavrenkova_IMG_0817_xxx.jpg"
+ },
+ "facade-day": {
+  "alt": "Отель «ЮрЛа» днём: трёхэтажное здание в стиле шале",
+  "cat": "facade",
+  "w": 993,
+  "h": 745,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/facade-day-640.webp"
+   },
+   {
+    "w": 993,
+    "file": "img/hotel/facade-day-993.webp"
+   }
+  ],
+  "src": "33_6___natalia.mavrenkova_IMG_07931_xxx.jpg"
+ },
+ "facade-parking": {
+  "alt": "Парковка перед отелем",
+  "cat": "facade",
+  "w": 1118,
+  "h": 745,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/facade-parking-640.webp"
+   },
+   {
+    "w": 1118,
+    "file": "img/hotel/facade-parking-1118.webp"
+   }
+  ],
+  "src": "33_9__natalia.mavrenkova_IMG_0883_xxx.jpg"
+ },
+ "reception": {
+  "alt": "Стойка приёма с резной отделкой из дерева",
+  "cat": "hall",
+  "w": 1120,
+  "h": 743,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/reception-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/reception-1120.webp"
+   }
+  ],
+  "src": "33_e_30_natalia.mavrenkova_xxx.jpg"
+ },
+ "reception-2": {
+  "alt": "Холл у стойки приёма, стены из камня и дерева",
+  "cat": "hall",
+  "w": 1120,
+  "h": 740,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/reception-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/reception-2-1120.webp"
+   }
+  ],
+  "src": "33_e_31_natalia.mavrenkova_xxx.jpg"
+ },
+ "lobby": {
+  "alt": "Лобби с кожаными диванами и живой стеной",
+  "cat": "hall",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/lobby-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/lobby-1120.webp"
+   }
+  ],
+  "src": "33_7_Otel-Urla-0043_xxx.jpg"
+ },
+ "lobby-2": {
+  "alt": "Холл отеля",
+  "cat": "hall",
+  "w": 1100,
+  "h": 733,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/lobby-2-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/hotel/lobby-2-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-holl-011_xxx.jpg"
+ },
+ "hall-stairs": {
+  "alt": "Холл и лестница на второй этаж",
+  "cat": "hall",
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/hotel/hall-stairs-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/hotel/hall-stairs-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-holl-021_xxx.jpg"
+ },
+ "hall-3": {
+  "alt": "Холл отеля, вид на лестницу",
+  "cat": "hall",
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/hotel/hall-3-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/hotel/hall-3-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-holl-031_xxx.jpg"
+ },
+ "hall-column": {
+  "alt": "Холл: каменная колонна, деревянные балки и зелень",
+  "cat": "hall",
+  "w": 838,
+  "h": 1120,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/hotel/hall-column-480.webp"
+   },
+   {
+    "w": 838,
+    "file": "img/hotel/hall-column-838.webp"
+   }
+  ],
+  "src": "33_8_40_natalia.mavrenkova_xxx.jpg"
+ },
+ "corridor": {
+  "alt": "Коридор с номерами",
+  "cat": "hall",
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/hotel/corridor-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/hotel/corridor-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-koridor-011_xxx.jpg"
+ },
+ "stairs": {
+  "alt": "Лестничный пролёт",
+  "cat": "hall",
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/hotel/stairs-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/hotel/stairs-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-lestnica-011_xxx.jpg"
+ },
+ "restaurant-windows": {
+  "alt": "Зал ресторана с панорамными окнами и деревянным потолком",
+  "cat": "restaurant",
+  "w": 1191,
+  "h": 794,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-windows-640.webp"
+   },
+   {
+    "w": 1191,
+    "file": "img/hotel/restaurant-windows-1191.webp"
+   }
+  ],
+  "src": "33_e_05_natalia.mavrenkova_DSCF72803_xxx.jpg"
+ },
+ "restaurant-hall": {
+  "alt": "Зал ресторана под деревянными балками",
+  "cat": "restaurant",
+  "w": 1118,
+  "h": 745,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-hall-640.webp"
+   },
+   {
+    "w": 1118,
+    "file": "img/hotel/restaurant-hall-1118.webp"
+   }
+  ],
+  "src": "33_e_30_natalia.mavrenkova_IMG_9927_11_xxx.jpg"
+ },
+ "restaurant-hall-2": {
+  "alt": "Ресторан: столы у окон",
+  "cat": "restaurant",
+  "w": 1118,
+  "h": 745,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-hall-2-640.webp"
+   },
+   {
+    "w": 1118,
+    "file": "img/hotel/restaurant-hall-2-1118.webp"
+   }
+  ],
+  "src": "33_e_30_natalia.mavrenkova_IMG_9927_12_xxx.jpg"
+ },
+ "restaurant-evening": {
+  "alt": "Ресторан вечером",
+  "cat": "restaurant",
+  "w": 1118,
+  "h": 745,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-evening-640.webp"
+   },
+   {
+    "w": 1118,
+    "file": "img/hotel/restaurant-evening-1118.webp"
+   }
+  ],
+  "src": "33_2_28_natalia.mavrenkova_IMG_9930_11_xxx.jpg"
+ },
+ "restaurant-bar": {
+  "alt": "Барная стойка ресторана",
+  "cat": "restaurant",
+  "w": 1118,
+  "h": 745,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-bar-640.webp"
+   },
+   {
+    "w": 1118,
+    "file": "img/hotel/restaurant-bar-1118.webp"
+   }
+  ],
+  "src": "33_5_14_natalia.mavrenkova_IMG_99252_xxx.jpg"
+ },
+ "restaurant-1": {
+  "alt": "Зал ресторана с белыми скатертями",
+  "cat": "restaurant",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-1-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/restaurant-1-1120.webp"
+   }
+  ],
+  "src": "33_4_restaurant-001_xxx.jpg"
+ },
+ "restaurant-2": {
+  "alt": "Зал ресторана под люстрами",
+  "cat": "restaurant",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/restaurant-2-1120.webp"
+   }
+  ],
+  "src": "33_4_restaurant-002_xxx.jpg"
+ },
+ "restaurant-3": {
+  "alt": "Ресторан: сервированные столы",
+  "cat": "restaurant",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-3-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/restaurant-3-1120.webp"
+   }
+  ],
+  "src": "33_4_restaurant-003_xxx.jpg"
+ },
+ "restaurant-fireplace": {
+  "alt": "Стол у камина",
+  "cat": "restaurant",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-fireplace-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/restaurant-fireplace-1120.webp"
+   }
+  ],
+  "src": "33_4_restaurant-005_xxx.jpg"
+ },
+ "restaurant-fireplace-2": {
+  "alt": "Камин в зале ресторана",
+  "cat": "restaurant",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-fireplace-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/restaurant-fireplace-2-1120.webp"
+   }
+  ],
+  "src": "33_4_restaurant-006_xxx.jpg"
+ },
+ "restaurant-4": {
+  "alt": "Ресторан: кресла и столы у окна",
+  "cat": "restaurant",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-4-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/restaurant-4-1120.webp"
+   }
+  ],
+  "src": "33_4_restaurant-007_xxx.jpg"
+ },
+ "restaurant-bar-2": {
+  "alt": "Бар и зал ресторана",
+  "cat": "restaurant",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/restaurant-bar-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/hotel/restaurant-bar-2-1120.webp"
+   }
+  ],
+  "src": "33_4_restaurant-010_xxx.jpg"
+ },
+ "conference": {
+  "alt": "Конференц-зал: длинный стол и кресла",
+  "cat": "hall",
+  "w": 1118,
+  "h": 745,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/hotel/conference-640.webp"
+   },
+   {
+    "w": 1118,
+    "file": "img/hotel/conference-1118.webp"
+   }
+  ],
+  "src": "33_6_01_natalia.mavrenkova_IMG_0234_xxx.jpg"
+ },
+ "standart-1": {
+  "alt": "Стандарт: двуспальная кровать с тумбочкой",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/standart-1-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/standart-1-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-027_xxx.jpg"
+ },
+ "standart-2": {
+  "alt": "Стандарт двухместный: две кровати",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/standart-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/standart-2-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-028_xxx.jpg"
+ },
+ "standart-3": {
+  "alt": "Стандарт двухместный: кровати, шкаф и окно",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/standart-3-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/standart-3-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-029_xxx.jpg"
+ },
+ "komfort-1": {
+  "alt": "Стандарт комфорт: кровать у окна и телевизор",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/komfort-1-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/komfort-1-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-030_xxx.jpg"
+ },
+ "komfort-2": {
+  "alt": "Стандарт комфорт: кровать и письменный стол",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/komfort-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/komfort-2-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-013_xxx.jpg"
+ },
+ "komfort-3": {
+  "alt": "Стандарт комфорт: прихожая с зеркалом",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/komfort-3-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/komfort-3-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-031_xxx.jpg"
+ },
+ "komfort-plus-1": {
+  "alt": "Стандарт комфорт плюс: кровать у выхода на балкон",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/komfort-plus-1-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/komfort-plus-1-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-032_xxx.jpg"
+ },
+ "komfort-plus-2": {
+  "alt": "Стандарт комфорт плюс: зеркало и изголовье кровати",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/komfort-plus-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/komfort-plus-2-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-033_xxx.jpg"
+ },
+ "komfort-plus-view": {
+  "alt": "Вид с балкона на Волжскую набережную и реку",
+  "cat": "facade",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/komfort-plus-view-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/komfort-plus-view-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-034_xxx.jpg"
+ },
+ "duplex-1": {
+  "alt": "Стандарт duplex: гостиная с диваном и лестница на второй уровень",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 760,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/duplex-1-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/duplex-1-1120.webp"
+   }
+  ],
+  "src": "358_6_08_natalia.mavrenkova_xxx.jpg"
+ },
+ "duplex-2": {
+  "alt": "Стандарт duplex: первый уровень, диван и телевизор",
+  "cat": null,
+  "w": 1120,
+  "h": 747,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/duplex-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/duplex-2-1120.webp"
+   }
+  ],
+  "src": "358_5_07_natalia.mavrenkova_xxx.jpg"
+ },
+ "duplex-3": {
+  "alt": "Стандарт duplex: спальня под деревянным скатом крыши",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 775,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/duplex-3-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/duplex-3-1120.webp"
+   }
+  ],
+  "src": "358_d_09_natalia.mavrenkova_xxx.jpg"
+ },
+ "duplex-4": {
+  "alt": "Стандарт duplex: спальня на втором уровне",
+  "cat": null,
+  "w": 1120,
+  "h": 747,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/duplex-4-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/duplex-4-1120.webp"
+   }
+  ],
+  "src": "358_b_20_natalia.mavrenkova_xxx.jpg"
+ },
+ "junior-1": {
+  "alt": "Джуниор сюит: кровать 180 см и выход на балкон",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior-1-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior-1-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-016_xxx.jpg"
+ },
+ "junior-2": {
+  "alt": "Джуниор сюит: спальня и туалетный столик",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior-2-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-035_xxx.jpg"
+ },
+ "junior-3": {
+  "alt": "Джуниор сюит: изголовье кровати и бра",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior-3-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior-3-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-024_xxx.jpg"
+ },
+ "junior-4": {
+  "alt": "Джуниор сюит в тёплых тонах",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior-4-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior-4-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-037_xxx.jpg"
+ },
+ "junior-5": {
+  "alt": "Джуниор сюит: кровать и туалетный столик",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior-5-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior-5-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-014_xxx.jpg"
+ },
+ "junior-bath": {
+  "alt": "Джуниор сюит: ванная с ванной и халатом",
+  "cat": "bath",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior-bath-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior-bath-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-036_xxx.jpg"
+ },
+ "junior2-1": {
+  "alt": "Двухуровневый Джуниор сюит: кожаный диван и лестница наверх",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-1-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-1-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-040_xxx.jpg"
+ },
+ "junior2-2": {
+  "alt": "Двухуровневый Джуниор сюит: гостиная с журнальным столиком",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-2-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-039_xxx.jpg"
+ },
+ "junior2-3": {
+  "alt": "Двухуровневый Джуниор сюит: диван у окна и лестница",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-3-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-3-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-010_xxx.jpg"
+ },
+ "junior2-4": {
+  "alt": "Двухуровневый Джуниор сюит: спальня",
+  "cat": "rooms",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-4-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-4-1120.webp"
+   }
+  ],
+  "src": "358_2_002_xxx.jpg"
+ },
+ "junior2-5": {
+  "alt": "Двухуровневый Джуниор сюит: кровать под скатом крыши",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-5-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-5-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-019_xxx.jpg"
+ },
+ "junior2-6": {
+  "alt": "Двухуровневый Джуниор сюит: второй уровень, деревянные перила",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-6-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-6-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-018_xxx.jpg"
+ },
+ "junior2-bath": {
+  "alt": "Двухуровневый Джуниор сюит: ванна",
+  "cat": "bath",
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-bath-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-bath-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-038_xxx.jpg"
+ },
+ "junior2-bath-2": {
+  "alt": "Двухуровневый Джуниор сюит: ванная, биде и халат",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-bath-2-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-bath-2-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-041_xxx.jpg"
+ },
+ "junior2-7": {
+  "alt": "Двухуровневый Джуниор сюит: спальня в розовых тонах",
+  "cat": null,
+  "w": 1120,
+  "h": 520,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/junior2-7-640.webp"
+   },
+   {
+    "w": 1120,
+    "file": "img/rooms/junior2-7-1120.webp"
+   }
+  ],
+  "src": "358_7_Otel-Urla-025_xxx.jpg"
+ },
+ "bath-1": {
+  "alt": "Ванная комната",
+  "cat": "bath",
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/rooms/bath-1-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/rooms/bath-1-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-vannaya-011_xxx.jpg"
+ },
+ "bath-2": {
+  "alt": "Ванная комната: душ и халат",
+  "cat": "bath",
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/rooms/bath-2-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/rooms/bath-2-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-vannaya-021_xxx.jpg"
+ },
+ "bath-3": {
+  "alt": "Ванная комната с душевой",
+  "cat": null,
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/rooms/bath-3-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/rooms/bath-3-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-vannaya-031_xxx.jpg"
+ },
+ "bath-4": {
+  "alt": "Ванная комната: халат",
+  "cat": null,
+  "w": 733,
+  "h": 1100,
+  "files": [
+   {
+    "w": 480,
+    "file": "img/rooms/bath-4-480.webp"
+   },
+   {
+    "w": 733,
+    "file": "img/rooms/bath-4-733.webp"
+   }
+  ],
+  "src": "357_5_Urla-vannaya-041_xxx.jpg"
+ },
+ "room-g1": {
+  "alt": "Номер в жёлтых тонах",
+  "cat": "rooms",
+  "w": 1100,
+  "h": 733,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g1-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g1-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-011_xxx.jpg"
+ },
+ "room-g2": {
+  "alt": "Номер: кровать и письменный стол",
+  "cat": null,
+  "w": 1100,
+  "h": 733,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g2-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g2-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-021_xxx.jpg"
+ },
+ "room-g7": {
+  "alt": "Номер в персиковых тонах, светлая мебель",
+  "cat": "rooms",
+  "w": 1100,
+  "h": 734,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g7-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g7-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-071_xxx.jpg"
+ },
+ "room-g11": {
+  "alt": "Номер с диваном и креслами",
+  "cat": "rooms",
+  "w": 1100,
+  "h": 734,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g11-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g11-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-111_xxx.jpg"
+ },
+ "room-g12": {
+  "alt": "Номер в розовых тонах",
+  "cat": null,
+  "w": 1100,
+  "h": 733,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g12-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g12-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-121_xxx.jpg"
+ },
+ "room-g15": {
+  "alt": "Гостиная номера: кожаный диван",
+  "cat": "rooms",
+  "w": 1100,
+  "h": 733,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g15-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g15-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-151_xxx.jpg"
+ },
+ "room-g18": {
+  "alt": "Номер: кровать с деревянным изголовьем",
+  "cat": null,
+  "w": 1100,
+  "h": 733,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g18-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g18-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-181_xxx.jpg"
+ },
+ "room-g21": {
+  "alt": "Номер: красное покрывало и бра",
+  "cat": "rooms",
+  "w": 1100,
+  "h": 733,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/rooms/room-g21-640.webp"
+   },
+   {
+    "w": 1100,
+    "file": "img/rooms/room-g21-1100.webp"
+   }
+  ],
+  "src": "357_5_Urla-nomer-211_xxx.jpg"
+ },
+ "stock:breakfast": {
+  "alt": "Круассаны, масло и чашки кофе на столе",
+  "cat": null,
+  "w": 1280,
+  "h": 853,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/stock/breakfast-640.webp"
+   },
+   {
+    "w": 1280,
+    "file": "img/stock/breakfast-1280.webp"
+   }
+  ],
+  "stock": {
+   "author": "Kubra YETER",
+   "author_url": "https://www.pexels.com/@kubra-yeter-53087376",
+   "page": "https://www.pexels.com/photo/tasty-croissants-on-the-white-ceramic-plate-14686500/",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "source": "pexels"
+  }
+ },
+ "stock:billiard": {
+  "alt": "Бильярдные шары крупным планом",
+  "cat": null,
+  "w": 1280,
+  "h": 853,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/stock/billiard-640.webp"
+   },
+   {
+    "w": 1280,
+    "file": "img/stock/billiard-1280.webp"
+   }
+  ],
+  "stock": {
+   "author": "hani almuzaini",
+   "author_url": "https://www.pexels.com/@hanialmuzini",
+   "page": "https://www.pexels.com/photo/vibrant-pool-balls-on-blue-table-36055834/",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "source": "pexels"
+  }
+ },
+ "stock:laundry": {
+  "alt": "Стопка чистых белых полотенец",
+  "cat": null,
+  "w": 1280,
+  "h": 853,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/stock/laundry-640.webp"
+   },
+   {
+    "w": 1280,
+    "file": "img/stock/laundry-1280.webp"
+   }
+  ],
+  "stock": {
+   "author": "cottonbro studio",
+   "author_url": "https://www.pexels.com/@cottonbro",
+   "page": "https://www.pexels.com/photo/person-holding-a-stack-of-white-towels-6466227/",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "source": "pexels"
+  }
+ },
+ "stock:rybinsk-facade": {
+  "alt": "Фасад исторического здания в Рыбинске с резным орнаментом",
+  "cat": null,
+  "w": 2560,
+  "h": 1706,
+  "files": [
+   {
+    "w": 1280,
+    "file": "img/stock/rybinsk-facade-1280.webp"
+   },
+   {
+    "w": 1920,
+    "file": "img/stock/rybinsk-facade-1920.webp"
+   },
+   {
+    "w": 2560,
+    "file": "img/stock/rybinsk-facade-2560.webp"
+   }
+  ],
+  "stock": {
+   "author": "Ольга Коретникова",
+   "author_url": "https://www.pexels.com/@2164334675",
+   "page": "https://www.pexels.com/photo/ornate-architecture-close-up-in-rybinsk-39617272/",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "source": "pexels"
+  }
+ },
+ "stock:rybinsk-houses": {
+  "alt": "Жёлтый и красный дома в центре Рыбинска",
+  "cat": null,
+  "w": 1280,
+  "h": 853,
+  "files": [
+   {
+    "w": 640,
+    "file": "img/stock/rybinsk-houses-640.webp"
+   },
+   {
+    "w": 1280,
+    "file": "img/stock/rybinsk-houses-1280.webp"
+   }
+  ],
+  "stock": {
+   "author": "Ольга Коретникова",
+   "author_url": "https://www.pexels.com/@2164334675",
+   "page": "https://www.pexels.com/photo/colorful-facade-of-buildings-in-rybinsk-russia-39617274/",
+   "license": "Pexels License",
+   "license_url": "https://www.pexels.com/license/",
+   "source": "pexels"
+  }
+ }
+}
