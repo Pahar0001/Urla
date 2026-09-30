@@ -7,6 +7,10 @@ import { fileURLToPath } from 'url';
 import { hotel, home, booking, rooms, rules, rybinsk } from './content.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+// --out <папка> — собрать страницы в другую папку (копия для выкладки); --noindex — закрыть от поисковиков
+const argv = process.argv.slice(2);
+const OUT = argv.includes('--out') ? path.resolve(argv[argv.indexOf('--out') + 1]) : ROOT;
+const NOINDEX = argv.includes('--noindex');
 const photos = JSON.parse(fs.readFileSync(path.join(ROOT, 'tools/photos.json'), 'utf8'));
 const LOGO = fs.readFileSync(path.join(ROOT, 'img/logo.svg'), 'utf8').trim()
   .replace(' role="img" aria-label="ЮрЛа"', ' aria-hidden="true" focusable="false"');
@@ -249,7 +253,8 @@ function page({ rel = '', title, description, body, isHome = false, preload = ''
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:image" content="${rel}img/og-yurla.jpg">
-<link rel="icon" href="${rel}favicon.svg" type="image/svg+xml">
+<link rel="icon" href="${rel}icon.svg" type="image/svg+xml">
+${NOINDEX ? '<meta name="robots" content="noindex, nofollow">\n' : ''}
 <link rel="preload" href="${rel}fonts/roboto-flex-subset.woff2" as="font" type="font/woff2" crossorigin>
 ${preload}<link rel="stylesheet" href="${rel}css/tokens.css">
 <link rel="stylesheet" href="${rel}css/site.css">
@@ -468,7 +473,7 @@ function buildRoom(r) {
       ${stage(r.photos, rel, 'Фото номера ' + r.name)}
       <div class="room-page__side">
         ${r.desc.map((p) => `<p>${t(p)}</p>`).join('\n        ')}
-        <ul class="facts">${[['guest', r.guests], [r.bed === 'Два уровня' ? 'stairs' : 'bed', r.bed], ...r.icons.filter((k) => ['balcony', 'snow', 'bath', 'sofa', 'fridge', 'heat'].includes(k)).slice(0, 3).map((k) => [k, LABELS[k]])].map(([k, l]) => `<li>${icon(k)}<span>${t(l)}</span></li>`).join('')}</ul>
+        <ul class="facts">${r.icons.slice(0, 5).map((k) => `<li>${icon(k)}<span>${t(LABELS[k])}</span></li>`).join('')}</ul>
         ${priceBox(r, true)}
       </div>
     </div>
@@ -575,7 +580,7 @@ function redirect(to, title) {
 }
 
 /* ---------- запись ---------- */
-const out = (p, html) => { const f = path.join(ROOT, p); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, html); };
+const out = (p, html) => { const f = path.join(OUT, p); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, html); };
 out('index.html', buildHome());
 for (const r of rooms) out(`rooms/${r.slug}.html`, buildRoom(r));
 out('rybinsk.html', buildRybinsk());
