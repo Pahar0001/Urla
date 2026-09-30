@@ -136,7 +136,7 @@ p, li { text-wrap: pretty; }
 .hero__media { position: absolute; inset: 0; }
 .hero__media img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 100%; }
 .hero--page .hero__media img { object-position: 50% 50%; }
-.hero--page .hero__media::after { background: linear-gradient(180deg, rgba(0,0,0,.6) 0%, rgba(0,0,0,.3) 30%, rgba(0,0,0,.48) 60%, rgba(0,0,0,.74) 100%); }
+.hero--page .hero__media::after { background: linear-gradient(180deg, rgba(0,0,0,.6) 0%, rgba(0,0,0,.36) 28%, rgba(0,0,0,.58) 56%, rgba(0,0,0,.76) 100%); }
 /* градиент донора rgba(0,0,0,.2) → .6 и тёмный край под шапкой */
 .hero__media::after {
   content: ""; position: absolute; inset: 0;
@@ -472,7 +472,7 @@ p, li { text-wrap: pretty; }
   .header__right { gap: 12px; }
   .hero--home { min-height: auto; }
   .book__field select, .book__field input { font-size: 16px; }
-  .hero--page .hero__media::after { background: linear-gradient(180deg, rgba(0,0,0,.62) 0%, rgba(0,0,0,.2) 30%, rgba(0,0,0,.25) 55%, rgba(0,0,0,.7) 100%); }
+  .hero--page .hero__media::after { background: linear-gradient(180deg, rgba(0,0,0,.68) 0%, rgba(0,0,0,.62) 45%, rgba(0,0,0,.78) 100%); }
   .hero--home .hero__media { bottom: auto; height: 560px; }
   .hero--home .hero__media img { object-position: 12% 50%; }
   .hero--home .hero__media::after {
